@@ -1,1 +1,2 @@
 # GRADIENT TEXT
+![Screenshot 2024-03-08 214151](https://github.com/Amisha0971/GRADIENT-TEXT-HTML-CSS/assets/136344215/f87b0127-e0e1-4238-a185-bf38fdbab0e6)
