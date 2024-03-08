@@ -5,6 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Animated Multicolor Gradient Text</title>
 <style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
     /* Define the animation */
     @keyframes gradient-animation {
         0% {
@@ -20,6 +28,7 @@
 
     /* Apply animation to the text */
     .gradient-text {
+        font-size: 10rem; /* Adjust the font size as needed */
         background: linear-gradient(90deg,  #800080, #800080, #800080, #e90d95, #e90997, #cc0b58, #FF0000); /* Set the gradient colors */
         background-size: 200% 200%;
         -webkit-background-clip: text; /* For Safari */
